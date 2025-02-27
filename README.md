@@ -1,4 +1,4 @@
-This Power BI report provides an interactive and visual representation of key insights derived from the dataset. It includes various visualizations such as charts, tables, and graphs, allowing users to explore trends, patterns, and relationships within the data.
+These Power BI report provides an interactive and visual representation of key insights derived from the dataset. It includes various visualizations such as charts, tables, and graphs, allowing users to explore trends, patterns, and relationships within the data.
 
 Key features of the report include:
 
